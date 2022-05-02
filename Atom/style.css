@@ -1,0 +1,45 @@
+* {
+margin: 0;
+padding: 0;
+  }
+h2 {
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+
+
+}
+.basic{
+  width: 100%;
+  height:100vh;
+  font-size: 30px;
+  font-family: 'Comfortaa', cursive;
+
+  background-image: linear-gradient(rgba(4, 9, 30, 0.4),rgba(4, 9, 30, 0.7)),url(WallpaperDog-17077150.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+p{
+  color: #F7F7F7;
+  text-align: center;
+
+}
+.channels{
+  color: #F7F7F7
+
+}
+.reason{
+  color: #ffe8d6;
+  text-align: center;
+}
+.staff{
+  color: #bb3e03;
+  font-size: 20px;
+}
+table{
+  border: "0";
+  width: 100%;
+  height: 8%;
+  background-color: #9b2226;
+}
